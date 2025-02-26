@@ -1,6 +1,3 @@
-# EEG Brutalism fake data
+# The Right Word - Assessment 2 - Fake EEG Data Brutalism
 
-## Source
-
-- https://www.kaggle.com/datasets/amananandrai/complete-eeg-dataset?resource=download
-- https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/9TTLK8
+Source: https://www.synapse.org/Synapse:syn50614194/wiki/620378

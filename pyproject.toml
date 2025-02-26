@@ -5,8 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "ipykernel>=6.29.5",
     "mne>=1.9.0",
+    "opencv-python>=4.11.0.86",
     "pandas>=2.2.3",
+    "pingouin>=0.5.5",
     "python-dotenv>=1.0.1",
     "synapseclient>=4.7.0",
 ]
